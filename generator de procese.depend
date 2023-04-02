@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1652377713 source:c:\users\nikb\desktop\sisteme de operare\generator de procese\main.cpp
+	<iostream>
+	<time.h>
+	<queue>
+	<vector>
+
